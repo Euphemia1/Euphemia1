@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Software Engineering at Zambia University Of Technology.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design,Technical Writing.
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design,Technical Writing & Artificial Intelligence.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
