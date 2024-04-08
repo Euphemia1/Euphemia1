@@ -8,11 +8,11 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Software Engineering at Zambia University Of Technology.
+- 🎓 &nbsp; Studying Software Engineering (4th Year) at Zambia University Of Technology.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design,Technical Writing & Artificial Intelligence.
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design,Mobile App, Web Development & Artificial Intelligence.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; STEM (Science Technology Engineering & Mathematics) Advocate.
 
 
 
