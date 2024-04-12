@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks, Semi Finalist (Africa 2 Silicon Valley Hackathon).
 - 🤔 &nbsp; Africa 2 Silicon Valley Semi-Finalist
-- 🤔 &nbsp; E2023 YOUNGA DELEGATE
+- 🤔 &nbsp; 2023 YOUNGA DELEGATE
 
 - 🎓 &nbsp; Studying Software Engineering (4th Year) at Zambia University Of Technology.
 
