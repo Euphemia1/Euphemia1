@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design,Mobile App, Web Development & Artificial Intelligence.
 
-- ✍️ &nbsp; STEM (Science Technology Engineering & Mathematics) Advocate.
+- ✍️ &nbsp; STEM (Science Technology Engineering & Mathematics) Advocate, Love Hosting & Podcasting.
 
 
 
