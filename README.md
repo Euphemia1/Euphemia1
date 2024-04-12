@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks, Semi Finalist (Africa 2 Silicon Valley Hackathon).
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🤔 &nbsp; Africa 2 Silicon Valley Semi-Finalist
 - 🤔 &nbsp; 2023 YOUNGA DELEGATE
 
