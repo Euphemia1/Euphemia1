@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks, Semi Finalist (Africa 2 Silicon Valley Hackathon).
 
 - 🎓 &nbsp; Studying Software Engineering (4th Year) at Zambia University Of Technology.
 
