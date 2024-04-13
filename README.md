@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Euphemia Chikungulu</h2>
+### Hi there 👋<h2> I'm Euphemia Chikungulu, the Tech_Empress</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.
 - 🤔 &nbsp; Africa 2 Silicon Valley Semi-Finalist
 - 🤔 &nbsp; 2023 YOUNGA DELEGATE
 
