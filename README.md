@@ -7,6 +7,7 @@
 
 
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.
+- - 🤔 &nbsp; To One Day Create a smart irrigation system in a drought striken place.
 - 🤔 &nbsp; Africa 2 Silicon Valley Semi-Finalist
 - 🤔 &nbsp; 2023 YOUNGA DELEGATE
 
