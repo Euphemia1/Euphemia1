@@ -41,7 +41,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Postgre| MySQL
+- 🔧 &nbsp; Postgre| Machine Learning| Artificial Intelligence
 
 <hr>
 
