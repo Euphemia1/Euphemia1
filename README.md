@@ -11,12 +11,10 @@
 - - 🤔 &nbsp; To One Day Create a smart irrigation system in a drought striken place.
 - 🤔 &nbsp; Africa 2 Silicon Valley Semi-Finalist
 - 🤔 &nbsp; 2023 YOUNGA DELEGATE
-
 - 🎓 &nbsp; Studying Software Engineering (4th Year) at Zambia University Of Technology.
-
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design,Mobile App, Web Development & Artificial Intelligence.
-
-- ✍️ &nbsp; STEM (Science Technology Engineering & Mathematics) Advocate, Love Hosting & Podcasting.
+- ✍️ &nbsp; STEM (Science Technology Engineering & Mathematics) Advocate.
+- - ✍️ &nbsp; Love Hosting & Podcasting.
 
 
 
