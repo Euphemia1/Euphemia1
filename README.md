@@ -40,7 +40,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Postgre| Machine Learning| Artificial Intelligence
+- 🔧 &nbsp; Postgre| Machine Learning| Artificial Intelligence| Software Testing| CI/CD.
 
 <hr>
 
