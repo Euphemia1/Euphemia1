@@ -3,21 +3,22 @@
    <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
   </tr>
 
-<!--  PROFILE HEADER RHS IMAGE  --><picture>
-  <img src="https://github.com/Euphemia1/Euphemia1/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
-</picture>
-
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
 
 I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
 
-💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
+💻 I am a Software Engineer Specialized in Frontend 
+Development and Technical Writing. With a passion for 
+creating intuitive user interfaces and crafting clear and 
+concise technical documentation, I combine my technical 
+Writing skills with my ability to communicate complex 
+concepts effectively..
 
 🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
 
 <!--  EXCITED CHARACTERS  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
+<img src="https://github.com/Euphemia1/Euphemia1/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
 </br>
 
@@ -30,8 +31,6 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
