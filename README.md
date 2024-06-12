@@ -71,6 +71,6 @@ concepts effectively..
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@euphemiachikungulu347)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euphemiachikungulu347@gmail.com)
 [![Instagram](https://www.instagram.com/_eu_phemia/)
-[![Twitter](https://twitter.com/tech_em_press)
+[Twitter(https://twitter.com/tech_em_press)
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
