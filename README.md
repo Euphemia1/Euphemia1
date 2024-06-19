@@ -12,15 +12,11 @@ concise technical documentation, I combine my technical
 Writing skills with my ability to communicate complex 
 concepts effectively..
 
-🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
 
-<!--  EXCITED CHARACTERS  -->
-<img src="https://github.com/Euphemia1/Euphemia1/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
+
 
 </br>
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Euphemia1/Euphemia1/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!--  EXPERTISE  -->
 
