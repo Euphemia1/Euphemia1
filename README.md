@@ -1,12 +1,9 @@
 <!--  PROFILE VISIT COUNTER  -->
   <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=Euphemia1&label=Profile%20views&color=36363b&style=flat" alt="Euphemia1" /></p>
   </tr>
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
-Hello World! 👋
-
-I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
 
 💻 I am a Software Engineer Specialized in Frontend 
 Development and Technical Writing. With a passion for 
@@ -26,7 +23,7 @@ concepts effectively..
 <img align="right" width="100%" src="https://github.com/Euphemia1/Euphemia1/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!--  EXPERTISE  -->
-### My expertise encompasses:
+
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
