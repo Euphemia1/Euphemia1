@@ -46,7 +46,7 @@ concepts effectively..
 </br>
 
 <!--  CAT  -->
-<img align="left" src="https://github.com/Euphemia1/Euphemia1/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
+
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euphemia1&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
