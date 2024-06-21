@@ -38,10 +38,8 @@ concepts effectively..
 
 
 <!--  MY GITHUB STAT  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=Euphemia1&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Euphemia1//assets/173Euphemia112616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
 
@@ -49,10 +47,10 @@ concepts effectively..
 
 
 <!--  LANGUAGES USED  -->
-<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euphemia1&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
+
 
 <!--  DIVIDER  -->
-<img width="100%" src="https://github.com/Euphemia1r/Euphemia1/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 ### _**You can find me on:**_
 
