@@ -32,35 +32,32 @@ concepts effectively..
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Euphemia1/Euphemia1/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 </br>
 
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=lassiecoder&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="Euphemi" width="100%" /> </p>
-
  <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Euphermia1/Euphemia1/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 </br>
 
 <!--  HI PIKACHU  -->
-<img src="https://github.com/Euphemia1/Euphemia1/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
+
 
 <!--  MY GITHUB STAT  -->
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=Euphemia1&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Euphemia1/Euphemia1/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 </br>
 
 <!--  CAT  -->
 
 <!--  LANGUAGES USED  -->
-<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euphemia1&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
+
 
 <!--  DIVIDER  -->
-<img width="100%" src="https://github.com/Euphemia1/Euphemia1/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ### _**You can find me on:**_
 
