@@ -14,7 +14,6 @@ Writing skills with my ability to communicate complex
 concepts effectively..
 
 <!--  EXCITED CHARACTERS  -->
-<img src="https://github.com/Euphemia1/Euphemia1/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
 </br>
 
