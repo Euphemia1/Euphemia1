@@ -1,12 +1,7 @@
 <!--  PROFILE VISIT COUNTER  -->
-  <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=Euphemia1&label=Profile%20views&color=36363b&style=flat" alt="Euphemia1" /></p>
-  </tr>
-
+  
 <!--  PROFILE HEADER RHS IMAGE  -->
-<picture>
-  <img src="https://github.com/Euphemia1/Euphemia1/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
-</picture>
+
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
@@ -24,7 +19,7 @@ concepts effectively..
 </br>
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Euphemia1/Euphemia1/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 <!--  EXPERTISE  -->
 ### My expertise encompasses:
@@ -60,7 +55,6 @@ concepts effectively..
 </br>
 
 <!--  CAT  -->
-<img align="left" src="https://github.com/Euphemia1/Euphemia1/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euphemia1&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
