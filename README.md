@@ -7,7 +7,7 @@
 Hello World! 👋
 
 💻 I am a Software Engineer Specialized in Frontend 
-Development and Technical Writing. My skills, knowledge and interests are not only limited to technology alone but how best we ca. intergrate it with ithet sectors to ensure we design and develop seamless solutions to address our challenges. with a passion for 
+Development and Technical Writing. My skills, knowledge and interests are not only limited to technology alone but how best we can intergrate it with other sectors to ensure we design and develop seamless solutions to address our challenges. with a passion for 
 creating intuitive user interfaces and crafting clear and 
 concise technical documentation, I combine my technical 
 Writing skills with my ability to communicate complex 
