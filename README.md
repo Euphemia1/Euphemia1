@@ -12,7 +12,7 @@ creating intuitive user interfaces and crafting clear and
 concise technical documentation, I combine my technical 
 Writing skills with my ability to communicate complex 
 concepts effectively..
-Technology isn't just about trends but a chnace to help others. 
+Technology isn't just about trends but a chance to help others. 
 
 Welcome to my World.
 #Tech-Girl
