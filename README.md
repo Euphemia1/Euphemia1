@@ -11,7 +11,7 @@ Development and Technical Writing. My skills, knowledge and interests are not on
 creating intuitive user interfaces and crafting clear and 
 concise technical documentation, I combine my technical 
 Writing skills with my ability to communicate complex 
-concepts effectively..
+concepts effectively..And my interest to share my thoughts on some cool tech gadgets and updates.
 Technology isn't just about trends but a chance to help others. 
 
 Welcome to my World.
