@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Technology+That+Creates+Impact;Software+Engineer;Technical+Writer;Founder+%26+Podcast+Host" />
 </p>
 
----
-
 ### About Me
 
 I'm a Software Engineer, Technical Writer, and Founder passionate about building technology that solves real-world problems and creates meaningful impact.
